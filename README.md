@@ -4,6 +4,7 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ajaydas-m&label=Profile%20Views&color=0e75b6&style=flat" />
 
+
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/__a.ja.y__)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ajay-das-m/)
@@ -26,10 +27,13 @@
       <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=ajaydas-m&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
     </td>
     <td>
-      <img src="https://github-profile-trophy.vercel.app/?username=ajaydas-m&theme=radical&no-frame=false&no-bg=true&margin-w=4" />
+      <img src="https://github-profile-trophy.vercel.app/?username=ajaydas-m&theme=radical&row=1&column=4" />
     </td>
   </tr>
 </table>
+
+## 📈 Contribution Graph
+[![Ajay's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ajaydas-m&theme=github-dark)](https://github.com/ajaydas-m)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=ajaydas-m&limit=5&theme=default&combine_all_yearly_contributions=true)
