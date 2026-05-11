@@ -1,5 +1,4 @@
-## Hi there 👋
-It's me Ajay
+
 
 
 ## 🌐 Socials:
@@ -18,7 +17,6 @@ It's me Ajay
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=ajaydas-m&limit=5&theme=default&combine_all_yearly_contributions=true)
 
----
-[![](https://komarev.com/ghpvc/?username=ajaydas-m&icon=10&color=13)](https://visitcount.itsvg.in)
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
