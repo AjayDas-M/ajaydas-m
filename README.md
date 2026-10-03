@@ -1,43 +1,81 @@
-<h1 align="center">Hi 👋, I'm Ajay Das</h1>
-<h3 align="center">Full Stack Developer | Cybersecurity Enthusiast | </h3>
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=0E75B6&center=true&vcenter=true&width=500&lines=Hi+%F0%9F%90%8B,+I'm+Ajay+Das;Full+Stack+Developer;Cybersecurity+Enthusiast" alt="Typing SVG" />
+</h1>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ajaydas-m&label=Profile%20Views&color=0e75b6&style=flat" />
+  <a href="https://github.com/ajaydas-m">
+    <img src="https://komarev.com/ghpvc/?username=ajaydas-m&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
+  </a>
+</p>
 
+<p align="center">
+  <em>Passionate about building secure web applications, exploring offensive/defensive security, and learning new technologies.</em>
+</p>
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/__a.ja.y__)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ajay-das-m/)
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white)
+---
 
-# 📊 GitHub Stats:
+### 📬 Connect with Me
 
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.shion.dev/api?username=ajaydas-m&theme=dark&hide_border=false&include_all_commits=true&count_private=true" />
-    </td>
-    <td>
-      <img src="https://streak-stats.demolab.com/?user=ajaydas-m&theme=dark&hide_border=false" />
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=ajaydas-m&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
-    </td>
-    <td>
-      <img src="https://github-profile-trophy.vercel.app/?username=ajaydas-m&theme=radical&row=1&column=4" />
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <a href="https://www.linkedin.com/in/ajay-das-m/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://www.instagram.com/__a.ja.y__"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
+</p>
 
-## 📈 Contribution Graph
-[![Ajay's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ajaydas-m&theme=github-dark)](https://github.com/ajaydas-m)
+---
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=ajaydas-m&limit=5&theme=default&combine_all_yearly_contributions=true)
+### 💻 Tech Stack & Tools
 
+#### 🚀 Programming Languages
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" />
+</p>
 
+#### 🌐 Web Development & Design
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" />
+</p>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+#### 🗄️ Databases & Tools
+<p>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+</p>
+
+---
+
+### 📊 GitHub Statistics
+
+<p align="center">
+  <img src="https://github-readme-stats.shion.dev/api?username=ajaydas-m&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" width="48%" />
+  <img src="https://streak-stats.demolab.com/?user=ajaydas-m&theme=tokyonight&hide_border=true" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=ajaydas-m&theme=tokyonight&hide_border=true&layout=compact" width="48%" />
+  <img src="https://github-profile-trophy.vercel.app/?username=ajaydas-m&theme=tokyonight&row=1&column=4&margin-w=15" width="48%" />
+</p>
+
+---
+
+### 📈 Activity & Contributions
+
+<p align="center">
+  <a href="https://github.com/ajaydas-m">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=ajaydas-m&theme=tokyonight&hide_border=true" width="100%" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=ajaydas-m&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" width="100%" />
+</p>
