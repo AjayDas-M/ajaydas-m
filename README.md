@@ -66,8 +66,6 @@
   <img src="https://github-profile-trophy.vercel.app/?username=ajaydas-m&theme=tokyonight&row=1&column=4&margin-w=15" width="48%" />
 </p>
 
----
-
 ### 📈 Activity & Contributions
 
 <p align="center">
